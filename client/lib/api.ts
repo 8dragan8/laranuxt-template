@@ -41,7 +41,7 @@ export interface LoginAction {
 const authConfigDefaults: AuthConfig = {
   fetchOptions: {},
   webURL: 'https://localhost:3000',
-  apiURL: 'https://localhost:8000',
+  apiURL: 'https://localhost:3082',
   redirect: {
     logout: '/',
     login: undefined,

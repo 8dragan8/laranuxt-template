@@ -8,4 +8,5 @@
     "editor.defaultFormatter": "open-southeners.laravel-pint",
     "editor.formatOnSave": true
   },
+  "nuxt.isNuxtApp": false,
 }
